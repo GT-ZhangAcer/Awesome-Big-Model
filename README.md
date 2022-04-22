@@ -4,7 +4,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/Awesome-DeepLearning/Awesome-Big-Model)
 ![GitHub](https://img.shields.io/github/license/Awesome-DeepLearning/Awesome-Big-Model)
 
-📖收集国内外深度学习大模型API、论文、案例与学习资料
+📖收集国内外深度学习大模型API、论文、案例与学习资料，欢迎Star🌟
 
 ---
 
