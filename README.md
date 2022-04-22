@@ -1,8 +1,8 @@
 # Awesome-Big-Model
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Awesome-DeepLearning/Big-Model-Collection)
-![GitHub Repo stars](https://img.shields.io/github/stars/Awesome-DeepLearning/Awesome-Big-Model)
-![GitHub](https://img.shields.io/github/license/Awesome-DeepLearning/Awesome-Big-Model)
+![GitHub Repo stars](https://img.shields.io/github/stars/GT-ZhangAcer/Awesome-Big-Model)
+![GitHub](https://img.shields.io/github/license/GT-ZhangAcer/Awesome-Big-Model)
 
 📖收集国内外深度学习大模型API、论文、案例与学习资料，欢迎Star🌟
 
