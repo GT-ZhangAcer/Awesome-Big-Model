@@ -13,8 +13,31 @@
 > 下方顺序、分类等等等信息暂未调整，待后续完善后决定顺序规则，暂时以个人了解程度为主
 ---
 
-[论文精选](https://github.com/GT-ZhangAcer/Awesome-Big-Model/README.md#论文精选) | API/工具精选 | 大模型应用
+[API/工具](https://github.com/GT-ZhangAcer/Awesome-Big-Model/README.md#API工具) | [论文精选](https://github.com/GT-ZhangAcer/Awesome-Big-Model/README.md#论文精选) | 大模型应用
 
+## API/工具
+* ### 大模型基础
+  1. 文心大模型NLP通用大模型    - [体验链接](https://wenxin.baidu.com/wenxin/ernie)   
+    * > 内含对话、对联、问答、自由生成（Prompt）等基础任务，支持0样本与少样本学习    
+  2. 文心大模型跨模态生成       - [体验链接](https://wenxin.baidu.com/wenxin/ernie-vilg)  
+    * > 使用中文文本来生成图像，效果还可以    
+  3. 浪潮·源1.0              - [申请链接](https://air.inspur.com/home) | [开源主页](https://github.com/Shawn-Inspur/Yuan-1.0)  
+    * > 普通开发者可申请对联与对话API，挺能撩，但会骂人  
+  4. OpenBMB·EVA对话模型      - [体验链接](https://www.openbmb.org/models/eva)  
+    * > 及格偏上水平的对话模型  
+  5. OpenBMB·CPM1.0故事生成   - [体验链接](https://www.openbmb.org/models/cpm1)  
+    * > 生成虽然不如彩云小梦，但体验相较其它大模型要好一些  
+  6. OpenBMB·CPM2.0完形填空   - [体验链接](https://www.openbmb.org/models/cpm2)
+    * > 可进行词汇补全  
+  7. 鹏城·盘古α通用大模型      - [体验链接](https://pangu-alpha.openi.org.cn/) | [开源链接](https://git.openi.org.cn/PCL-Platform.Intelligence/PanGu-Alpha)  
+    * > 支持对话、问答、自由生成（Prompt）等基础任务  
+  8. 悟道AI开放平台           - [体验链接](https://open.wudaoai.com/openpower) | [开源组织](https://github.com/BAAI-WuDao)  
+    * > 包含标题生成、对话、纠错、润色等挺有意思的功能  
+  9. DALL-E                  - [官方开源链接](https://github.com/openai/DALL-E) | [飞桨开发者版本](https://github.com/AgentMaker/Paddle-DALL-E)
+    * > 可根据英文生成图像
+  10. RuDALL-E              - [官方体验链接](https://github.com/sberbank-ai) | [飞桨开发者版本](https://github.com/AgentMaker/ru-dalle-paddle) | [飞桨开发者版本在线体验](https://aistudio.baidu.com/aistudio/projectdetail/2684828)
+    * > DALL-E俄语版，飞桨开发者版本可在线体验中文->翻译为俄语->文本生成图片
+    * 
 ## 论文精选
 目录导航 [百度·文心](https://github.com/GT-ZhangAcer/Awesome-Big-Model/README.md##百度文心) | OpenAI | 浪潮·源 | 智源·悟道 | 清华·OpenBMB | 阿里OFA | 华为·盘古
 ### 百度·文心
@@ -46,7 +69,6 @@
   1. HELIX-GEM - [Geometry-enhanced molecular representation learning for property prediction](https://www.nature.com/articles/s42256-021-00438-4)
   2. HELIX-S2F - [Multimodal Pre-Training Model for Sequence-based Prediction of Protein-Protein Interaction](https://proceedings.mlr.press/v165/xue22a.html)
 
-## API/工具
-后续更新
+
 ## 大模型应用
 后续更新
