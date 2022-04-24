@@ -22,7 +22,7 @@
 
 ```其子系列分为ERNIE、VIMER、PLATO、HELIX四个主要系列，分别对应NLP/跨模态、CV、对话系统、生物计算4个部分。```
 
-子系列导航 [ERNIE系](https://github.com/GT-ZhangAcer/Awesome-Big-Model/README.md#ERNIE系) | [VIMER系](https://github.com/GT-ZhangAcer/Awesome-Big-Model/README.md#VIMER系) | [VIMER系](https://github.com/GT-ZhangAcer/Awesome-Big-Model/README.md#VIMER系) | [HELIX系](https://github.com/GT-ZhangAcer/Awesome-Big-Model/README.md#HELIX系)
+子系列导航 [ERNIE系](https://github.com/GT-ZhangAcer/Awesome-Big-Model/README.md#ERNIE系) | [VIMER系](https://github.com/GT-ZhangAcer/Awesome-Big-Model/README.md#VIMER系) | [PLATO系](https://github.com/GT-ZhangAcer/Awesome-Big-Model/README.md#VIMER系) | [HELIX系](https://github.com/GT-ZhangAcer/Awesome-Big-Model/README.md#HELIX系)
 
 * #### ERNIE系
   1. 鹏城-百度·文心 - [End-to-end Adaptive Distributed Training on PaddlePaddle](https://arxiv.org/abs/2112.02752)
