@@ -13,10 +13,10 @@
 > 下方顺序、分类等等等信息暂未调整，待后续完善后决定顺序规则，暂时以个人了解程度为主
 ---
 
-[API/工具](https://github.com/GT-ZhangAcer/Awesome-Big-Model/README.md#API工具) | [论文精选](https://github.com/GT-ZhangAcer/Awesome-Big-Model/README.md#论文精选) | 大模型应用
+[API/工具](https://github.com/GT-ZhangAcer/Awesome-Big-Model/README.md#API工具) | [相关论文](https://github.com/GT-ZhangAcer/Awesome-Big-Model/README.md#相关论文) | 大模型应用
 
 ## API/工具
-* ### 大模型基础
+* ### 开源/在线体验
   1. 文心大模型NLP通用大模型    - [体验链接](https://wenxin.baidu.com/wenxin/ernie)   
     * > 内含对话、对联、问答、自由生成（Prompt）等基础任务，支持0样本与少样本学习    
   2. 文心大模型跨模态生成       - [体验链接](https://wenxin.baidu.com/wenxin/ernie-vilg)  
@@ -35,10 +35,12 @@
     * > 包含标题生成、对话、纠错、润色等挺有意思的功能  
   9. DALL-E                  - [官方开源链接](https://github.com/openai/DALL-E) | [飞桨开发者版本](https://github.com/AgentMaker/Paddle-DALL-E)
     * > 可根据英文生成图像
-  10. RuDALL-E              - [官方体验链接](https://github.com/sberbank-ai) | [飞桨开发者版本](https://github.com/AgentMaker/ru-dalle-paddle) | [飞桨开发者版本在线体验](https://aistudio.baidu.com/aistudio/projectdetail/2684828)
+  10. RuDALL-E              - [官方开源链接](https://github.com/sberbank-ai) | [飞桨开发者版本](https://github.com/AgentMaker/ru-dalle-paddle) | [飞桨开发者版本在线体验](https://aistudio.baidu.com/aistudio/projectdetail/2684828)
     * > DALL-E俄语版，飞桨开发者版本可在线体验中文->翻译为俄语->文本生成图片
-    * 
-## 论文精选
+   11. CLIP                 - [官方开源链接](https://github.com/openai/CLIP) | [飞桨开发者版本](https://github.com/AgentMaker/Paddle-CLIP) | [飞桨开发者版本在线体验](https://aistudio.baidu.com/aistudio/projectdetail/1644724) | [飞桨官方实现](https://github.com/PaddlePaddle/PASSL)
+    * > 将文本与图像一起训练，在Zero-shot上也能有不错的成绩。
+    
+## 相关论文
 目录导航 [百度·文心](https://github.com/GT-ZhangAcer/Awesome-Big-Model/README.md##百度文心) | OpenAI | 浪潮·源 | 智源·悟道 | 清华·OpenBMB | 阿里OFA | 华为·盘古
 ### 百度·文心
 产业级知识增强大模型，包含基础通用大模型及面向重点领域和重点任务的大模型，同时有丰富的工具与平台支撑高效便捷的应用开发，学习效率高，可解释性好，大幅降低AI开发与应用门槛。
