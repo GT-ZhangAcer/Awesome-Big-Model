@@ -39,6 +39,8 @@
     * > DALL-E俄语版，飞桨开发者版本可在线体验中文->翻译为俄语->文本生成图片
    11. CLIP                 - [官方开源链接](https://github.com/openai/CLIP) | [飞桨开发者版本](https://github.com/AgentMaker/Paddle-CLIP) | [飞桨开发者版本在线体验](https://aistudio.baidu.com/aistudio/projectdetail/1644724) | [飞桨官方实现](https://github.com/PaddlePaddle/PASSL)
     * > 将文本与图像一起训练，在Zero-shot上也能有不错的成绩。
+   12. OpenAI  -[官方Example](https://beta.openai.com/examples)
+    * > 国区没有开放，正常渠道无法体验相关能力。
     
 ## 相关论文
 目录导航 [百度·文心](https://github.com/GT-ZhangAcer/Awesome-Big-Model/README.md##百度文心) | OpenAI | 浪潮·源 | 智源·悟道 | 清华·OpenBMB | 阿里OFA | 华为·盘古
